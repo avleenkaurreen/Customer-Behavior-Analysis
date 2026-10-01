@@ -11,7 +11,7 @@ This project was created as a **Data Analytics portfolio project** to strengthen
 
 ## 📊 Dashboard Preview
 
-![Customer Shopping Behavior Dashboard](Customer Shopping Behavior Dashboard.png)
+Customer Shopping Behavior Dashboard.png
 
 ---
 
